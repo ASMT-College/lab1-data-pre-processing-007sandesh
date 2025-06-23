@@ -1,0 +1,13 @@
+Month,Sales,Sales_Binned
+January,15000,Bin_2
+February,18000,Bin_2
+March,12000,Bin_1
+April,30000,Bin_3
+May,22000,Bin_2
+June,5000,Bin_1
+July,8000,Bin_1
+August,25000,Bin_3
+September,10000,Bin_1
+October,20000,Bin_2
+November,15000,Bin_2
+December,40000,Bin_4
